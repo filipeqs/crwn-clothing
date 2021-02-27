@@ -1,4 +1,4 @@
-import { UserActionTypes } from './user.tyes';
+import UserActionTypes from './user.tyes';
 
 const initialState = {
     currentUser: null,
